@@ -156,12 +156,6 @@ supported 50K+ monthly HDFC users without downtime.</li>
             <a href="mailto:shreyapawar451@gmail.com" className="contact-btn">Send Message</a>
           </div>
           <div className="contact-card">
-            <div className="contact-icon">📱</div>
-            <h3>Phone</h3>
-            <p>+91 99871 15023</p>
-            <a href="tel:+919987115023" className="contact-btn">Call Now</a>
-          </div>
-          <div className="contact-card">
             <div className="contact-icon">💼</div>
             <h3>LinkedIn</h3>
             <p>Shreya Pawar</p>
